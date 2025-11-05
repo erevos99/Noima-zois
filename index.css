@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Basic safe defaults for dark mode look */
+html, body, #root { height: 100%; }
+body { background-color: #0f1720; }
